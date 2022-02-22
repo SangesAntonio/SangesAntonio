@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning 
+### Actually learning Web Developing👋
+- 🌱 I’m currently learning :
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <!--
 **SangesAntonio/SangesAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
